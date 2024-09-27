@@ -11,3 +11,9 @@ __pycache__/
 
 # IDEs
 
+# Node Project 
+node-scraper/node_modules/
+
+
+# Python Project 
+python-scraper/env/
