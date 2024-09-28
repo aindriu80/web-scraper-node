@@ -1,0 +1,72 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": "\u00c2\u00a351.77",
+    "stock": "In stock",
+    "rating": "Three",
+    "link": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+  },
+  {
+    "title": "In Her Wake",
+    "price": "\u00c2\u00a312.84",
+    "stock": "In stock",
+    "rating": "One",
+    "link": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html"
+  },
+  {
+    "title": "Slow States of Collapse: Poems",
+    "price": "\u00c2\u00a357.31",
+    "stock": "In stock",
+    "rating": "Three",
+    "link": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html"
+  },
+  {
+    "title": "The Nameless City (The Nameless City #1)",
+    "price": "\u00c2\u00a338.16",
+    "stock": "In stock",
+    "rating": "Four",
+    "link": "https://books.toscrape.com/catalogue/the-nameless-city-the-nameless-city-1_940/index.html"
+  },
+  {
+    "title": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",
+    "price": "\u00c2\u00a313.61",
+    "stock": "In stock",
+    "rating": "Five",
+    "link": "https://books.toscrape.com/catalogue/princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html"
+  },
+  {
+    "title": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
+    "price": "\u00c2\u00a357.36",
+    "stock": "In stock",
+    "rating": "Five",
+    "link": "https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html"
+  },
+  {
+    "title": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "price": "\u00c2\u00a330.81",
+    "stock": "In stock",
+    "rating": "One",
+    "link": "https://books.toscrape.com/catalogue/algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html"
+  },
+  {
+    "title": "The Shadow Hero (The Shadow Hero)",
+    "price": "\u00c2\u00a333.14",
+    "stock": "In stock",
+    "rating": "One",
+    "link": "https://books.toscrape.com/catalogue/the-shadow-hero-the-shadow-hero_860/index.html"
+  },
+  {
+    "title": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.",
+    "price": "\u00c2\u00a332.00",
+    "stock": "In stock",
+    "rating": "Three",
+    "link": "https://books.toscrape.com/catalogue/the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html"
+  },
+  {
+    "title": "Modern Romance",
+    "price": "\u00c2\u00a328.26",
+    "stock": "In stock",
+    "rating": "Five",
+    "link": "https://books.toscrape.com/catalogue/modern-romance_820/index.html"
+  }
+]
